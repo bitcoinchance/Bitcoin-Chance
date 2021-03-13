@@ -1,23 +1,17 @@
-Bitcoin Core integration/staging tree
+Bitcoin Chance
 =====================================
 
-https://bitcoincore.org
+https://bitcoinchance.org
 
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
 
 Further information about Bitcoin Core is available in the [doc folder](/doc).
 
-What is Bitcoin?
+What is Bitcoin Chance?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
-
-For more information read the original Bitcoin whitepaper.
+Bitcoin Chance is a new fork of Bitcoin with faster and cheaper transactions. It gives everyone the chance to join profitable mining from Block 0 and hopefully make a lot of blockchain interested people rich.
 
 License
 -------
